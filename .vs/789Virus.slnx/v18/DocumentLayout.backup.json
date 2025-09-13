@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\_Project\\789Virus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CEBA8-F553-49F7-820B-F6A80F823827}|789Virus\\789Virus.csproj|z:\\_project\\789virus\\789virus\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CEBA8-F553-49F7-820B-F6A80F823827}|789Virus\\789Virus.csproj|solutionrelative:789virus\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CEBA8-F553-49F7-820B-F6A80F823827}|789Virus\\789Virus.csproj|Z:\\_Project\\789Virus\\789virus\\forms\\tip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CEBA8-F553-49F7-820B-F6A80F823827}|789Virus\\789Virus.csproj|solutionrelative:789virus\\forms\\tip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CEBA8-F553-49F7-820B-F6A80F823827}|789Virus\\789Virus.csproj|Z:\\_Project\\789Virus\\789virus\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79CEBA8-F553-49F7-820B-F6A80F823827}|789Virus\\789Virus.csproj|solutionrelative:789virus\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CEBA8-F553-49F7-820B-F6A80F823827}|789Virus\\789Virus.csproj|Z:\\_Project\\789Virus\\789virus\\forms\\tip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F79CEBA8-F553-49F7-820B-F6A80F823827}|789Virus\\789Virus.csproj|solutionrelative:789virus\\forms\\tip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tip.cs",
+              "DocumentMoniker": "Z:\\_Project\\789Virus\\789Virus\\Forms\\tip.cs",
+              "RelativeDocumentMoniker": "789Virus\\Forms\\tip.cs",
+              "ToolTip": "Z:\\_Project\\789Virus\\789Virus\\Forms\\tip.cs",
+              "RelativeToolTip": "789Virus\\Forms\\tip.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:52:03.721Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tip.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "Z:\\_Project\\789Virus\\789Virus\\Forms\\tip.cs",
+              "RelativeDocumentMoniker": "789Virus\\Forms\\tip.cs",
+              "ToolTip": "Z:\\_Project\\789Virus\\789Virus\\Forms\\tip.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "789Virus\\Forms\\tip.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:47:56.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main_Form.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "Z:\\_Project\\789Virus\\789Virus\\Main_Form.cs",
+              "RelativeDocumentMoniker": "789Virus\\Main_Form.cs",
+              "ToolTip": "Z:\\_Project\\789Virus\\789Virus\\Main_Form.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "789Virus\\Main_Form.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:03:33.318Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_Form.cs",
+              "DocumentMoniker": "Z:\\_Project\\789Virus\\789Virus\\Main_Form.cs",
+              "RelativeDocumentMoniker": "789Virus\\Main_Form.cs",
+              "ToolTip": "Z:\\_Project\\789Virus\\789Virus\\Main_Form.cs",
+              "RelativeToolTip": "789Virus\\Main_Form.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAI4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T08:07:53.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Z:\_Project\789Virus\789Virus\bin\Debug\789Virus.exe.config
+Z:\_Project\789Virus\789Virus\bin\Debug\789Virus.exe
+Z:\_Project\789Virus\789Virus\bin\Debug\789Virus.pdb
+Z:\_Project\789Virus\789Virus\bin\Debug\Newtonsoft.Json.dll
+Z:\_Project\789Virus\789Virus\bin\Debug\Newtonsoft.Json.xml
+Z:\_Project\789Virus\789Virus\obj\Debug\789Virus.csproj.AssemblyReference.cache
+Z:\_Project\789Virus\789Virus\obj\Debug\_789Virus.Main_Form.resources
+Z:\_Project\789Virus\789Virus\obj\Debug\_789Virus.Properties.Resources.resources
+Z:\_Project\789Virus\789Virus\obj\Debug\789Virus.csproj.GenerateResource.cache
+Z:\_Project\789Virus\789Virus\obj\Debug\789Virus.csproj.CoreCompileInputs.cache
+Z:\_Project\789Virus\789Virus\obj\Debug\789Virus.csproj.Up2Date
+Z:\_Project\789Virus\789Virus\obj\Debug\789Virus.exe
+Z:\_Project\789Virus\789Virus\obj\Debug\789Virus.pdb
+Z:\_Project\789Virus\789Virus\obj\Debug\_789Virus.Forms.tip.resources
